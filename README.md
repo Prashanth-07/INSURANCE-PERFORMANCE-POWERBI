@@ -38,7 +38,7 @@ Your feedback is valuable! If you have suggestions for improvements or would lik
 
 Happy analyzing!
 
-![Insurance Performance Dashboard](/images/dashboard_screenshot.png)
+![Insurance Performance Dashboard](Insurance-Performance-Dashboard.png)
 
 ---
 
